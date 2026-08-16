@@ -4,7 +4,7 @@ pipeline {
     environment {
         PROD_HOST = "3.108.63.113"
         PROD_USER = "ubuntu"
-        PROD_DIR  = "/home/ubuntu/django-cicd-project_new"
+        PROD_DIR  = "/home/ubuntu/django-cicd-project"
     }
 
     stages {
